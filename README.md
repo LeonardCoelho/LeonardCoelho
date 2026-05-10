@@ -1,18 +1,14 @@
-# Olá, eu sou o Leonardo Coelho 👋
+## Leonardo Coelho — Data Analyst
 
-🚛 Analista de Transportes | Estudante de Data Science & Machine Learning  
-📍 Campinas-SP | 📧 lnrds.coelho@gmail.com | [LinkedIn](https://www.linkedin.com/in/leonardosoucoelho/)
+Python · SQL · Power BI em produção, com foco em logística e automação operacional.
 
-## 🧰 Skills
-- Python (pandas, numpy, scikit-learn, xlwings)
-- Automação de Excel / Power Automate
-- Machine Learning aplicado à logística e supply chain
-- Power BI / Dashboards interativos
-- Streamlit / Apps interativos
+**Stack:** Python (Pandas, Scikit-Learn, openpyxl) · SQL · Power BI · Power Automate  
+**Área:** Logística · Supply Chain · Automação de processos  
+**Localização:** Campinas, SP
 
-## 🚀 Projetos em destaque
-- **Automação de Grade** – Automação de planilhas logísticas com Python + Power Automate
-- **Dashboard Logística** – Histórico e previsão de cargas com Power BI e Python
+### Projetos em destaque
+- **[automacao-grade](https://github.com/LeonardCoelho/automacao-grade)** — Eliminou ~10h/semana de trabalho manual na geração de grades de carregamento (Python + Power Automate)
+- **[saving-logistica](https://github.com/LeonardCoelho/saving-logistica)** — Estimativa de saving logístico por antecipação de coleta (Python + Pandas + Geopy)
+- **[logistics-analytics-pipeline](https://github.com/LeonardCoelho/logistics-analytics-pipeline)** — Pipeline de dados logísticos com DuckDB e dbt (em desenvolvimento)
 
-## 📈 Contato
-Aberto para projetos na área de logística, automação ou análise de dados.
+📫 [linkedin.com/in/leoscoelho](https://linkedin.com/in/leoscoelho)
