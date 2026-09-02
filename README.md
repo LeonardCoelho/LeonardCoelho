@@ -1,4 +1,4 @@
-## Leonardo Coelho — Data Analyst
+# Leonardo Coelho - Data & Logística | Python · SQL · dbt · Power BI
 
 Python · SQL · Power BI em produção, com foco em logística e automação operacional.
 
