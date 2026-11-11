@@ -6,7 +6,7 @@
 - 🧱 Estruturo e modelo bases analíticas com **SQL** e **Pandas**
 - 📊 Transformo dados em decisão com **Power BI** e **Streamlit**
 - 🎓 Pós em Ciência de Dados e Machine Learning (PUC-Campinas) · ADS (USF)
-- 📍 Campinas, SP · aberto a oportunidades **híbridas e remotas**
+- 📍 Campinas, SP
 
 ---
 
