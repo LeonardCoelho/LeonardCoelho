@@ -1,6 +1,6 @@
 # Olá, eu sou o Leonardo 👋
 
-**Analista de dados com raiz na operação logística.** Comecei na linha de produção e hoje construo pipelines e análises de dados que melhoram o planejamento de transportes da Arcor do Brasil.
+**Dados e automação aplicados à logística.** Comecei na linha de produção e hoje construo pipelines e análises de dados que melhoram o planejamento de transportes da Arcor do Brasil.
 
 - 🔧 Automatizo processos operacionais com **Python** e **Power Automate**
 - 🧱 Estruturo e modelo bases analíticas com **SQL** e **Pandas**
